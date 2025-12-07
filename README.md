@@ -1,4 +1,4 @@
-HTTP Request Smuggling a
+HTTP Request Smuggling
 ```
 POST /vuln HTTP/1.1
 Host: 192.168.2.23:8080
